@@ -1,0 +1,31 @@
+{
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "packages": {
+    "sentence-transformers": "5.7.0",
+    "transformers": "5.22.1",
+    "torch": "2.14.1+cu130",
+    "scikit-learn": "1.6.1",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3"
+  },
+  "models": {
+    "MiniLM": {
+      "id": "sentence-transformers/all-MiniLM-L6-v2",
+      "max_seq_length": 256,
+      "dimensions": 384,
+      "revision": null
+    },
+    "MPNet": {
+      "id": "sentence-transformers/all-mpnet-base-v2",
+      "max_seq_length": 384,
+      "dimensions": 768,
+      "revision": null
+    },
+    "BGE": {
+      "id": "BAAI/bge-base-en-v1.5",
+      "max_seq_length": 512,
+      "dimensions": 768,
+      "revision": null
+    }
+  }
+}

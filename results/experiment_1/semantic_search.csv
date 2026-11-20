@@ -1,0 +1,46 @@
+model,query,rank,poem_id,title,similarity,draft_target
+MiniLM,Missing someone whose presence still shapes ordinary objects,1,P01,The Painter,0.3788488916519687,True
+MiniLM,Missing someone whose presence still shapes ordinary objects,2,P09,wax child,0.2557106773460891,True
+MiniLM,Missing someone whose presence still shapes ordinary objects,3,P05,rooms that remember truth,0.22633146177591637,False
+MiniLM,Feeling guilty about resting instead of making progress,1,P03,Forward Is Forward,0.2958383962775579,True
+MiniLM,Feeling guilty about resting instead of making progress,2,P02,These Mountains,0.2688560518666127,True
+MiniLM,Feeling guilty about resting instead of making progress,3,P11,The Knowing Quiet,0.24024500311693073,False
+MiniLM,Finding understanding by slowing down and paying attention,1,P05,rooms that remember truth,0.4205735489665755,True
+MiniLM,Finding understanding by slowing down and paying attention,2,P03,Forward Is Forward,0.2749514458360763,False
+MiniLM,Finding understanding by slowing down and paying attention,3,P10,It Starts With Thought,0.2743999189909937,False
+MiniLM,Surviving hardship without wanting applause,1,P11,The Knowing Quiet,0.3955512634527471,False
+MiniLM,Surviving hardship without wanting applause,2,P12,Call of the Brave,0.3361875293220557,False
+MiniLM,Surviving hardship without wanting applause,3,P06,and the canary kept singing,0.29683400116997133,False
+MiniLM,Refusing to participate in an institution that profits from suffering,1,P06,and the canary kept singing,0.13957978557295037,True
+MiniLM,Refusing to participate in an institution that profits from suffering,2,P12,Call of the Brave,0.12822362894333764,False
+MiniLM,Refusing to participate in an institution that profits from suffering,3,P01,The Painter,0.0933430879117268,False
+MPNet,Missing someone whose presence still shapes ordinary objects,1,P01,The Painter,0.41290294481475187,True
+MPNet,Missing someone whose presence still shapes ordinary objects,2,P09,wax child,0.4077146888561435,True
+MPNet,Missing someone whose presence still shapes ordinary objects,3,P04,Broken Glass,0.33529473178589453,False
+MPNet,Feeling guilty about resting instead of making progress,1,P03,Forward Is Forward,0.3135399097121544,True
+MPNet,Feeling guilty about resting instead of making progress,2,P02,These Mountains,0.309684282906249,True
+MPNet,Feeling guilty about resting instead of making progress,3,P05,rooms that remember truth,0.23147603219632834,False
+MPNet,Finding understanding by slowing down and paying attention,1,P05,rooms that remember truth,0.37948953415994474,True
+MPNet,Finding understanding by slowing down and paying attention,2,P03,Forward Is Forward,0.31315386920903354,False
+MPNet,Finding understanding by slowing down and paying attention,3,P11,The Knowing Quiet,0.2615737679535966,True
+MPNet,Surviving hardship without wanting applause,1,P02,These Mountains,0.3815455803174804,False
+MPNet,Surviving hardship without wanting applause,2,P12,Call of the Brave,0.3590995280810524,False
+MPNet,Surviving hardship without wanting applause,3,P11,The Knowing Quiet,0.34619572008301847,False
+MPNet,Refusing to participate in an institution that profits from suffering,1,P06,and the canary kept singing,0.2287627769075521,True
+MPNet,Refusing to participate in an institution that profits from suffering,2,P04,Broken Glass,0.22429009620774631,False
+MPNet,Refusing to participate in an institution that profits from suffering,3,P11,The Knowing Quiet,0.22159914088934424,False
+BGE,Missing someone whose presence still shapes ordinary objects,1,P01,The Painter,0.5612781773274301,True
+BGE,Missing someone whose presence still shapes ordinary objects,2,P05,rooms that remember truth,0.4870604413478047,False
+BGE,Missing someone whose presence still shapes ordinary objects,3,P04,Broken Glass,0.48116298180591777,False
+BGE,Feeling guilty about resting instead of making progress,1,P02,These Mountains,0.5169868965522189,True
+BGE,Feeling guilty about resting instead of making progress,2,P03,Forward Is Forward,0.5158387366415047,True
+BGE,Feeling guilty about resting instead of making progress,3,P05,rooms that remember truth,0.5009312932082589,False
+BGE,Finding understanding by slowing down and paying attention,1,P05,rooms that remember truth,0.6301002864662857,True
+BGE,Finding understanding by slowing down and paying attention,2,P01,The Painter,0.5425297300317056,False
+BGE,Finding understanding by slowing down and paying attention,3,P03,Forward Is Forward,0.5335506774178924,False
+BGE,Surviving hardship without wanting applause,1,P12,Call of the Brave,0.48127058486951935,False
+BGE,Surviving hardship without wanting applause,2,P02,These Mountains,0.4783213020101351,False
+BGE,Surviving hardship without wanting applause,3,P01,The Painter,0.47825734820230653,False
+BGE,Refusing to participate in an institution that profits from suffering,1,P01,The Painter,0.3939079727297472,False
+BGE,Refusing to participate in an institution that profits from suffering,2,P12,Call of the Brave,0.3842458360737623,False
+BGE,Refusing to participate in an institution that profits from suffering,3,P08,the phoenix knows,0.3840767624444681,False

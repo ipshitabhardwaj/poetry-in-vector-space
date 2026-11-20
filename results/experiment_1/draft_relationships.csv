@@ -1,0 +1,199 @@
+model,poem_1,poem_2,title_1,title_2,similarity,draft_link,rank
+MiniLM,P01,P02,The Painter,These Mountains,0.28506062120564785,False,47
+MiniLM,P01,P03,The Painter,Forward Is Forward,0.23166857047754524,False,53
+MiniLM,P01,P04,The Painter,Broken Glass,0.40232288608289163,False,22
+MiniLM,P01,P05,The Painter,rooms that remember truth,0.6149399324150604,True,2
+MiniLM,P01,P06,The Painter,and the canary kept singing,0.37728761460114196,False,28
+MiniLM,P01,P07,The Painter,the orchard fed her bones,0.34208304587937355,False,37
+MiniLM,P01,P08,The Painter,the phoenix knows,0.3162031443000616,False,43
+MiniLM,P01,P09,The Painter,wax child,0.5420405426936344,True,6
+MiniLM,P01,P10,The Painter,It Starts With Thought,0.5230305378076385,False,8
+MiniLM,P01,P11,The Painter,The Knowing Quiet,0.3946275013515573,False,23
+MiniLM,P01,P12,The Painter,Call of the Brave,0.4461451871569848,False,18
+MiniLM,P02,P03,These Mountains,Forward Is Forward,0.13324630985527536,True,60
+MiniLM,P02,P04,These Mountains,Broken Glass,0.14047264925438047,False,59
+MiniLM,P02,P05,These Mountains,rooms that remember truth,0.28079316994957015,False,48
+MiniLM,P02,P06,These Mountains,and the canary kept singing,0.12813616667956793,False,61
+MiniLM,P02,P07,These Mountains,the orchard fed her bones,0.14221362739938798,False,58
+MiniLM,P02,P08,These Mountains,the phoenix knows,0.20431338511803285,True,55
+MiniLM,P02,P09,These Mountains,wax child,0.3067570558794358,False,45
+MiniLM,P02,P10,These Mountains,It Starts With Thought,0.24465950913732704,False,52
+MiniLM,P02,P11,These Mountains,The Knowing Quiet,0.3479325143753434,False,34
+MiniLM,P02,P12,These Mountains,Call of the Brave,0.1970695374179503,True,56
+MiniLM,P03,P04,Forward Is Forward,Broken Glass,0.10447781940857519,False,64
+MiniLM,P03,P05,Forward Is Forward,rooms that remember truth,0.34000800376490503,False,38
+MiniLM,P03,P06,Forward Is Forward,and the canary kept singing,0.11356414098611244,False,62
+MiniLM,P03,P07,Forward Is Forward,the orchard fed her bones,0.056186887854525004,False,66
+MiniLM,P03,P08,Forward Is Forward,the phoenix knows,0.11312711966932586,True,63
+MiniLM,P03,P09,Forward Is Forward,wax child,0.060878418509291404,False,65
+MiniLM,P03,P10,Forward Is Forward,It Starts With Thought,0.38031361930994867,False,27
+MiniLM,P03,P11,Forward Is Forward,The Knowing Quiet,0.28624001309177904,False,46
+MiniLM,P03,P12,Forward Is Forward,Call of the Brave,0.21443720060843646,True,54
+MiniLM,P04,P05,Broken Glass,rooms that remember truth,0.3227437333808271,False,42
+MiniLM,P04,P06,Broken Glass,and the canary kept singing,0.4559967130936588,False,17
+MiniLM,P04,P07,Broken Glass,the orchard fed her bones,0.46784908390199564,True,13
+MiniLM,P04,P08,Broken Glass,the phoenix knows,0.4655127482797447,True,14
+MiniLM,P04,P09,Broken Glass,wax child,0.560124794394214,False,4
+MiniLM,P04,P10,Broken Glass,It Starts With Thought,0.3271754043293758,False,41
+MiniLM,P04,P11,Broken Glass,The Knowing Quiet,0.18499150602313763,False,57
+MiniLM,P04,P12,Broken Glass,Call of the Brave,0.37301557585701606,False,29
+MiniLM,P05,P06,rooms that remember truth,and the canary kept singing,0.3928851603541842,False,24
+MiniLM,P05,P07,rooms that remember truth,the orchard fed her bones,0.3546984290741263,False,33
+MiniLM,P05,P08,rooms that remember truth,the phoenix knows,0.25323503187299756,False,51
+MiniLM,P05,P09,rooms that remember truth,wax child,0.3823618956072364,False,26
+MiniLM,P05,P10,rooms that remember truth,It Starts With Thought,0.6014397366486637,True,3
+MiniLM,P05,P11,rooms that remember truth,The Knowing Quiet,0.498160051393724,True,11
+MiniLM,P05,P12,rooms that remember truth,Call of the Brave,0.43780703206072075,False,19
+MiniLM,P06,P07,and the canary kept singing,the orchard fed her bones,0.8372120313948047,True,1
+MiniLM,P06,P08,and the canary kept singing,the phoenix knows,0.45818479854398064,False,16
+MiniLM,P06,P09,and the canary kept singing,wax child,0.5118310100185315,True,9
+MiniLM,P06,P10,and the canary kept singing,It Starts With Thought,0.42326788827928985,False,20
+MiniLM,P06,P11,and the canary kept singing,The Knowing Quiet,0.3081102483379082,False,44
+MiniLM,P06,P12,and the canary kept singing,Call of the Brave,0.47335514388379996,False,12
+MiniLM,P07,P08,the orchard fed her bones,the phoenix knows,0.45820230757913666,False,15
+MiniLM,P07,P09,the orchard fed her bones,wax child,0.52723186736318,False,7
+MiniLM,P07,P10,the orchard fed her bones,It Starts With Thought,0.3577795081634782,False,32
+MiniLM,P07,P11,the orchard fed her bones,The Knowing Quiet,0.27992755142080394,False,49
+MiniLM,P07,P12,the orchard fed her bones,Call of the Brave,0.35936569561854004,False,31
+MiniLM,P08,P09,the phoenix knows,wax child,0.39104523897759463,False,25
+MiniLM,P08,P10,the phoenix knows,It Starts With Thought,0.33095211030360827,False,40
+MiniLM,P08,P11,the phoenix knows,The Knowing Quiet,0.26883869580539294,False,50
+MiniLM,P08,P12,the phoenix knows,Call of the Brave,0.4133315362199581,False,21
+MiniLM,P09,P10,wax child,It Starts With Thought,0.3729518534460906,False,30
+MiniLM,P09,P11,wax child,The Knowing Quiet,0.3340450709364856,False,39
+MiniLM,P09,P12,wax child,Call of the Brave,0.3477691556547547,False,35
+MiniLM,P10,P11,It Starts With Thought,The Knowing Quiet,0.5024372841946759,True,10
+MiniLM,P10,P12,It Starts With Thought,Call of the Brave,0.5549883933412116,False,5
+MiniLM,P11,P12,The Knowing Quiet,Call of the Brave,0.3467472738426356,False,36
+MPNet,P01,P02,The Painter,These Mountains,0.3987027298731979,False,49
+MPNet,P01,P03,The Painter,Forward Is Forward,0.3366292826094426,False,57
+MPNet,P01,P04,The Painter,Broken Glass,0.47380121208068215,False,31
+MPNet,P01,P05,The Painter,rooms that remember truth,0.6400089481931004,True,6
+MPNet,P01,P06,The Painter,and the canary kept singing,0.3331090062025431,False,58
+MPNet,P01,P07,The Painter,the orchard fed her bones,0.283587673821697,False,61
+MPNet,P01,P08,The Painter,the phoenix knows,0.3404840852450275,False,56
+MPNet,P01,P09,The Painter,wax child,0.5719650524507898,True,12
+MPNet,P01,P10,The Painter,It Starts With Thought,0.5315866833243164,False,17
+MPNet,P01,P11,The Painter,The Knowing Quiet,0.5378341452561621,False,16
+MPNet,P01,P12,The Painter,Call of the Brave,0.45357182012018715,False,38
+MPNet,P02,P03,These Mountains,Forward Is Forward,0.47553576355995303,True,30
+MPNet,P02,P04,These Mountains,Broken Glass,0.4344410591300104,False,43
+MPNet,P02,P05,These Mountains,rooms that remember truth,0.43940854357376147,False,41
+MPNet,P02,P06,These Mountains,and the canary kept singing,0.31703011801167014,False,59
+MPNet,P02,P07,These Mountains,the orchard fed her bones,0.2119565559930765,False,65
+MPNet,P02,P08,These Mountains,the phoenix knows,0.40925618201172714,True,48
+MPNet,P02,P09,These Mountains,wax child,0.4287273152754471,False,45
+MPNet,P02,P10,These Mountains,It Starts With Thought,0.4370016290160883,False,42
+MPNet,P02,P11,These Mountains,The Knowing Quiet,0.5380950143963802,False,15
+MPNet,P02,P12,These Mountains,Call of the Brave,0.5111130747275692,True,22
+MPNet,P03,P04,Forward Is Forward,Broken Glass,0.39159491234612365,False,51
+MPNet,P03,P05,Forward Is Forward,rooms that remember truth,0.47332344307144236,False,32
+MPNet,P03,P06,Forward Is Forward,and the canary kept singing,0.21578389813573556,False,64
+MPNet,P03,P07,Forward Is Forward,the orchard fed her bones,0.1523941102818804,False,66
+MPNet,P03,P08,Forward Is Forward,the phoenix knows,0.2551990218027338,True,63
+MPNet,P03,P09,Forward Is Forward,wax child,0.2906359929623267,False,60
+MPNet,P03,P10,Forward Is Forward,It Starts With Thought,0.4711707653373913,False,33
+MPNet,P03,P11,Forward Is Forward,The Knowing Quiet,0.41776423778084343,False,47
+MPNet,P03,P12,Forward Is Forward,Call of the Brave,0.5163048846657683,True,20
+MPNet,P04,P05,Broken Glass,rooms that remember truth,0.5717548861618234,False,13
+MPNet,P04,P06,Broken Glass,and the canary kept singing,0.5085884160147803,False,23
+MPNet,P04,P07,Broken Glass,the orchard fed her bones,0.4561395186750726,True,37
+MPNet,P04,P08,Broken Glass,the phoenix knows,0.5141663523872604,True,21
+MPNet,P04,P09,Broken Glass,wax child,0.6419411311950345,False,5
+MPNet,P04,P10,Broken Glass,It Starts With Thought,0.4420985716810975,False,40
+MPNet,P04,P11,Broken Glass,The Knowing Quiet,0.5526110292690722,False,14
+MPNet,P04,P12,Broken Glass,Call of the Brave,0.5170570810616646,False,19
+MPNet,P05,P06,rooms that remember truth,and the canary kept singing,0.44723933239217506,False,39
+MPNet,P05,P07,rooms that remember truth,the orchard fed her bones,0.368564659352258,False,54
+MPNet,P05,P08,rooms that remember truth,the phoenix knows,0.39117747718977697,False,52
+MPNet,P05,P09,rooms that remember truth,wax child,0.5918034659059543,False,11
+MPNet,P05,P10,rooms that remember truth,It Starts With Thought,0.6454368985715799,True,4
+MPNet,P05,P11,rooms that remember truth,The Knowing Quiet,0.6514974757662455,True,3
+MPNet,P05,P12,rooms that remember truth,Call of the Brave,0.6081774326764755,False,10
+MPNet,P06,P07,and the canary kept singing,the orchard fed her bones,0.8050974002756623,True,1
+MPNet,P06,P08,and the canary kept singing,the phoenix knows,0.5013876152028307,False,24
+MPNet,P06,P09,and the canary kept singing,wax child,0.49819515020009875,True,26
+MPNet,P06,P10,and the canary kept singing,It Starts With Thought,0.39310896689229136,False,50
+MPNet,P06,P11,and the canary kept singing,The Knowing Quiet,0.47980847152821526,False,29
+MPNet,P06,P12,and the canary kept singing,Call of the Brave,0.46639064162397115,False,35
+MPNet,P07,P08,the orchard fed her bones,the phoenix knows,0.41865553193514365,False,46
+MPNet,P07,P09,the orchard fed her bones,wax child,0.45667738644169537,False,36
+MPNet,P07,P10,the orchard fed her bones,It Starts With Thought,0.2781869548755638,False,62
+MPNet,P07,P11,the orchard fed her bones,The Knowing Quiet,0.3737465072776916,False,53
+MPNet,P07,P12,the orchard fed her bones,Call of the Brave,0.3626117576012331,False,55
+MPNet,P08,P09,the phoenix knows,wax child,0.4668706892962692,False,34
+MPNet,P08,P10,the phoenix knows,It Starts With Thought,0.4330617478002875,False,44
+MPNet,P08,P11,the phoenix knows,The Knowing Quiet,0.519962430782188,False,18
+MPNet,P08,P12,the phoenix knows,Call of the Brave,0.48297026216026273,False,28
+MPNet,P09,P10,wax child,It Starts With Thought,0.4952648930418742,False,27
+MPNet,P09,P11,wax child,The Knowing Quiet,0.6364837238035848,False,7
+MPNet,P09,P12,wax child,Call of the Brave,0.5000924493405374,False,25
+MPNet,P10,P11,It Starts With Thought,The Knowing Quiet,0.6098529917364413,True,9
+MPNet,P10,P12,It Starts With Thought,Call of the Brave,0.6265164917566362,False,8
+MPNet,P11,P12,The Knowing Quiet,Call of the Brave,0.652519228089538,False,2
+BGE,P01,P02,The Painter,These Mountains,0.6238589862081483,False,40
+BGE,P01,P03,The Painter,Forward Is Forward,0.6398945455476268,False,32
+BGE,P01,P04,The Painter,Broken Glass,0.5829675298866024,False,54
+BGE,P01,P05,The Painter,rooms that remember truth,0.7180948003087443,True,7
+BGE,P01,P06,The Painter,and the canary kept singing,0.5853156547494841,False,52
+BGE,P01,P07,The Painter,the orchard fed her bones,0.5737621014398637,False,58
+BGE,P01,P08,The Painter,the phoenix knows,0.6365997538061238,False,34
+BGE,P01,P09,The Painter,wax child,0.584515134214481,True,53
+BGE,P01,P10,The Painter,It Starts With Thought,0.6656192091770082,False,20
+BGE,P01,P11,The Painter,The Knowing Quiet,0.6207962343230308,False,42
+BGE,P01,P12,The Painter,Call of the Brave,0.5857266083455923,False,51
+BGE,P02,P03,These Mountains,Forward Is Forward,0.6945179041165772,True,14
+BGE,P02,P04,These Mountains,Broken Glass,0.5753706764924373,False,57
+BGE,P02,P05,These Mountains,rooms that remember truth,0.6160390793241908,False,43
+BGE,P02,P06,These Mountains,and the canary kept singing,0.554904184583231,False,60
+BGE,P02,P07,These Mountains,the orchard fed her bones,0.5434551487659925,False,64
+BGE,P02,P08,These Mountains,the phoenix knows,0.647384005454539,True,28
+BGE,P02,P09,These Mountains,wax child,0.6342696614338741,False,35
+BGE,P02,P10,These Mountains,It Starts With Thought,0.6579404019797646,False,24
+BGE,P02,P11,These Mountains,The Knowing Quiet,0.6936380557548291,False,15
+BGE,P02,P12,These Mountains,Call of the Brave,0.7098535079617334,True,10
+BGE,P03,P04,Forward Is Forward,Broken Glass,0.5519369263235225,False,62
+BGE,P03,P05,Forward Is Forward,rooms that remember truth,0.6987492003687823,False,12
+BGE,P03,P06,Forward Is Forward,and the canary kept singing,0.564708656656292,False,59
+BGE,P03,P07,Forward Is Forward,the orchard fed her bones,0.5399765853328415,False,65
+BGE,P03,P08,Forward Is Forward,the phoenix knows,0.6533106695963893,True,26
+BGE,P03,P09,Forward Is Forward,wax child,0.5378566947077723,False,66
+BGE,P03,P10,Forward Is Forward,It Starts With Thought,0.7244724216334179,False,5
+BGE,P03,P11,Forward Is Forward,The Knowing Quiet,0.696054006509276,False,13
+BGE,P03,P12,Forward Is Forward,Call of the Brave,0.6587500232890584,True,23
+BGE,P04,P05,Broken Glass,rooms that remember truth,0.5508444032293442,False,63
+BGE,P04,P06,Broken Glass,and the canary kept singing,0.6276913810178755,False,37
+BGE,P04,P07,Broken Glass,the orchard fed her bones,0.6139207361552311,True,44
+BGE,P04,P08,Broken Glass,the phoenix knows,0.7113042029757422,True,9
+BGE,P04,P09,Broken Glass,wax child,0.6650455962805135,False,21
+BGE,P04,P10,Broken Glass,It Starts With Thought,0.5770039298888276,False,55
+BGE,P04,P11,Broken Glass,The Knowing Quiet,0.5769712086692123,False,56
+BGE,P04,P12,Broken Glass,Call of the Brave,0.6423787445914606,False,30
+BGE,P05,P06,rooms that remember truth,and the canary kept singing,0.5919133703601409,False,48
+BGE,P05,P07,rooms that remember truth,the orchard fed her bones,0.6032144327019553,False,46
+BGE,P05,P08,rooms that remember truth,the phoenix knows,0.6251408931862825,False,39
+BGE,P05,P09,rooms that remember truth,wax child,0.5942829781541893,False,47
+BGE,P05,P10,rooms that remember truth,It Starts With Thought,0.713830396468566,True,8
+BGE,P05,P11,rooms that remember truth,The Knowing Quiet,0.7012052185332242,True,11
+BGE,P05,P12,rooms that remember truth,Call of the Brave,0.6608615457778726,False,22
+BGE,P06,P07,and the canary kept singing,the orchard fed her bones,0.8658624575379321,True,1
+BGE,P06,P08,and the canary kept singing,the phoenix knows,0.6915587501755097,False,16
+BGE,P06,P09,and the canary kept singing,wax child,0.6692588837556989,True,17
+BGE,P06,P10,and the canary kept singing,It Starts With Thought,0.623403608163612,False,41
+BGE,P06,P11,and the canary kept singing,The Knowing Quiet,0.6385315961500582,False,33
+BGE,P06,P12,and the canary kept singing,Call of the Brave,0.6479905264021977,False,27
+BGE,P07,P08,the orchard fed her bones,the phoenix knows,0.7203451790577909,False,6
+BGE,P07,P09,the orchard fed her bones,wax child,0.6304259877401006,False,36
+BGE,P07,P10,the orchard fed her bones,It Starts With Thought,0.5541709777933761,False,61
+BGE,P07,P11,the orchard fed her bones,The Knowing Quiet,0.5888222096069494,False,50
+BGE,P07,P12,the orchard fed her bones,Call of the Brave,0.5895211540714314,False,49
+BGE,P08,P09,the phoenix knows,wax child,0.6675218320537915,False,19
+BGE,P08,P10,the phoenix knows,It Starts With Thought,0.6428811909819233,False,29
+BGE,P08,P11,the phoenix knows,The Knowing Quiet,0.6419496803362523,False,31
+BGE,P08,P12,the phoenix knows,Call of the Brave,0.65379787545506,False,25
+BGE,P09,P10,wax child,It Starts With Thought,0.6101915506211848,False,45
+BGE,P09,P11,wax child,The Knowing Quiet,0.6269372587601336,False,38
+BGE,P09,P12,wax child,Call of the Brave,0.6687202823288984,False,18
+BGE,P10,P11,It Starts With Thought,The Knowing Quiet,0.7389170252079904,True,2
+BGE,P10,P12,It Starts With Thought,Call of the Brave,0.7302042681966688,False,3
+BGE,P11,P12,The Knowing Quiet,Call of the Brave,0.7280195404790466,False,4
